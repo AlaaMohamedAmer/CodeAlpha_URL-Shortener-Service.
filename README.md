@@ -27,4 +27,3 @@ A high-performance, minimalistic URL shortening service built with **ASP.NET Cor
 ## Author
 
 **Alaa Amer**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/alaa-amer-2485a2245/))
