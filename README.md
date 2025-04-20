@@ -6,11 +6,11 @@ A high-performance, minimalistic URL shortening service built with **ASP.NET Cor
 
 ## 📌 Features
 
-- ✅ Generate short, shareable URLs
-- 🔁 Redirect users from short URLs to original destinations
-- 🧱 Built with Clean Architecture for scalability and maintainability
-- 🧪 Fully documented via Swagger UI
-- 🔒 Secure with basic validation
+- Generate short, shareable URLs
+- Redirect users from short URLs to original destinations
+- Built with Clean Architecture for scalability and maintainability
+- Fully documented via Swagger UI
+- Secure with basic validation
 
 ---
 
